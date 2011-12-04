@@ -1,0 +1,3 @@
+# Makefile for Cydia Through Terminal
+
+dpkg-deb -b com.levi.cythruterm
