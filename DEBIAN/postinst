@@ -1,9 +1,0 @@
-#!/bin/sh
-
-chmod 455 /bin/cydia
-echo "Thanks for installing CyThruTerm!"
-echo ""
-echo ""
-echo "EricaUtilities check taken from insanelyi's metadatatool... Thanks!"
-echo ""
-echo "I suggest a respring, though not necessary."
