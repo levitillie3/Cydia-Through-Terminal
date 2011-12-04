@@ -1,0 +1,9 @@
+
+	As I said in the description, this is a simple script to open cydia through the terminal on your iDevice. It works on all Jailbroken devices with terminal or SSH installed. To build simply download the git repository, any way you'd like, and modify the script to your liking(optional). Next cd into the downloaded/unpacked directory and type:
+
+		make
+
+	There are no other requirements other than this.
+
+	COMING CHANGES:
+		Still to add the unbuilt files as well as the MAKEFILE.
