@@ -1,0 +1,13 @@
+Package: com.sull.cythruterm
+Name: Cydia through Terminal
+Version: 1.3
+Architecture: iphoneos-arm
+Depiction: http://repo.insanelyi.com/depiction.php?package=cythruterm
+Description: CythruTerm - Open Cydia through terminal to home, packages, or sources
+Depends: com.ericasadun.utilities
+Homepage: http://insanelyi.com
+Author: wlevit3 or wlt333 <wlevit3@gmail.com>
+Sponsor: insanelyi <http://insanelyi.com>
+Section: iScripts
+Maintainer: insanelyi <noreply@insanelyi.com>
+
